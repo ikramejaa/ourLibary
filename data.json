@@ -1,0 +1,188 @@
+[
+    {
+        "title": "Anne of Green Gables",
+        "author": "Lucy Maud Montgomery",
+        "genre": ["Family", "Romance"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\anne-of-green-gables.pdf"
+    },
+    {
+        "title": "The Gifts of Imperfection",
+        "author": "Brené Brown",
+        "genre": ["personal development"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\2545_GiftsofImperfection.pdf"
+    },
+    {
+        "title": "Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "genre": ["Mystery", "Crime"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\adventure-of-sherlock-holmes.pdf"
+    },
+    {
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "genre": ["Psychology"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\Daniel-Kahneman-Thinking-Fast-and-Slow-.pdf"
+    },
+    {
+        "title": "Dog Treat Maker",
+        "author": "dash express",
+        "genre": ["Pets"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\Dash-Express-Dog-Treat-Maker.pdf"
+    },
+    {
+        "title": "Data Science and Machine Learning",
+        "author": "Dirk P. Kroese, Zdravko I. Botev, Thomas Taimre, Radislav Vaisman",
+        "genre": ["Technology", "DataScience"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\DSML.pdf"
+    },
+    {
+        "title": "Essentialism",
+        "author": "Greg McKeown",
+        "genre": ["personal development"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\greg-mckeown-essentialism-the-disciplined-pursuit.pdf"
+    },
+    {
+        "title": "The Power of Passion and Perseverance",
+        "author": "Angela Duckworth",
+        "genre": ["Psychology", "personal development"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\grit-the-power-of-passion-and-perserverance.pdf"
+    },
+    {
+        "title": "Guide to Computer Forensics and Investigation",
+        "author": "Bill Nelson, Amelia Phillips, Christopher Steuart",
+        "genre": ["Technology", "ComputerScience"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\guide-to-computer-forensics-and-investigations-5th-Edition-ebook.pdf"
+    },
+    {
+        "title": "Hidden Figures",
+        "author": "Margot Lee Shetterly",
+        "genre": ["History", "Biography"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\Hidden-Figures-Book.pdf"
+    },
+    {
+        "title": "Man's Search for Meaning",
+        "author": "Viktor E. Frankl",
+        "genre": ["Psychology", "Philosophy"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\Mans-Search-For-Meaning.pdf"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": ["Classic", "Romance"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\pride-and-prejudice.pdf"
+    },
+    {
+        "title":"Stokal ou l’œuf de Shrödinger",
+        "author":"Sylvestre ÉVRARD",
+        "genre":["scince-fiction"],
+        "link":"C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\trio_1_-_stokal_et_loeuf_de_-_v1_finale_avec_couv.pdf"
+    },
+    {
+        "title":"LE BAL DES SANTONS",
+        "author":"Gaston Dominici",
+        "genre":["Mystery","Police","Culturel"],
+        "link":"C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\texte_le_bal_des_santons.pdf"
+    },
+    {
+        "title":"REDITES-LE-MOI",
+        "author":"Saint Bleyras",
+        "genre":["Romance","Epistolary","personal development"],
+        "link":"C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\redites-le-moi_2023.pdf"
+    },
+    {
+        "title":"Me trouver",
+        "author":"unknown",
+        "genre":["Prologue"],
+        "link":"C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\me_trouver_extrait_pour_mbs.pdf"
+    },
+    {
+        "title":"le long du fleuve",
+        "author":"Philippe Ribagnac",
+        "genre":["Poem"],
+        "link":"C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\le_long_du_fleuve.pdf"
+    },
+    {
+        "title":"le diable se cache dans le sublime",
+        "author":"Philippe Clausels",
+        "genre":["Young","Thriller"],
+        "link":"C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\le_diable_se_cache_dans_le_sublime.pdf"
+    },
+    {
+        "title":"Kofi",
+        "author":"unknown",
+        "genre":["Novel"],
+        "link":"C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\kofi_v.3.pdf"
+    },
+    {
+        "title":"The Kama Sutra",
+        "author":"Vatsyayana",
+        "genre":["Romance","Sexual","Life"],
+        "link":"C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\kamasutraofvatsy00vatsuoft.pdf"
+    },
+    {
+        "title":"History of western philosophy",
+        "author":"Bertrand Russel",
+        "genre":["History"],
+        "link":"C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\HistoryOfWesternPhilosophy-BertrandRussell.pdf"
+    },
+    {
+        "title":"Nouvelle donnée pour Mr Salsa",
+        "author":"Sylvester Evrard",
+        "genre":["fiction"],
+        "link":"C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\gregoire_salsa-_nouvelle_de_sylvestre_evrard_2023.pdf"
+    },
+    {
+        "title":"Aux coffins de l'été",
+        "author":"Ester stark",
+        "genre":["Humanity"],
+        "link":"C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\esther_stark_-_aux_confins_de_lete.pdf"
+    },
+    {
+        "title":"دع الحمیة وابدأ الحیاة",
+        "author":"وائل أبو هندي",
+        "genre":["Fitness"],
+        "link":"C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\arabe.pdf"
+    },
+    {
+        "title":"Alcide, le dernier hermite Cathare",
+        "author":" Jean Pierre LAURIER",
+        "genre":["History"],
+        "link":"C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\alcide_le_dernier_hermite_cathare_1.pdf"
+    },
+    {
+        "title":"Astéric et les indiens",
+        "author":"Albert René",
+        "genre":["Animation","Children"],
+        "link":"C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\Albums de films - Astérix et les Indiens.pdf"
+    },
+    {
+        "title": "The 5 Second Rule",
+        "author": "Mel Robbins",
+        "genre": ["personal development"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\The-5-Second-Rule_-Transform-your-Life-Work-and-Confidence-with-Everyday-Courage.pdf"
+    },
+    {
+        "title": "Clandestine",
+        "author": "Brigitte Deleruelle",
+        "genre": ["personal development"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\The-5-Second-Rule_-Transform-your-Life-Work-and-Confidence-with-Everyday-Courage.pdf"
+    },
+    {
+        "title": "The Miracle Morning",
+        "author": "Hal Elrod",
+        "genre": ["personal development", "Productivity"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\The-Miracle-Morning.pdf"
+    },
+    {
+        "title": "The Power of Your Subconscious Mind",
+        "author": "Joseph Murphy",
+        "genre": ["personal development", "Psychology"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\the-power-of-your-subconscious-mind-pdf-(1988).pdf"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": ["Classic", "LegalDrama"],
+        "link": "C:\\Users\\hhafs\\OneDrive\\Bureau\\Books\\to-kill-a-mocking-bird.pdf"
+    }
+]
