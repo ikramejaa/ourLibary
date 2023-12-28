@@ -1,0 +1,23 @@
+/* NavBar.css */
+.navbar {
+    background-color: #333; /* Set your desired background color */
+    color: white; /* Set your desired text color */
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000; /* Set a higher z-index to ensure it's above other elements */
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: white;
+  }
+  
