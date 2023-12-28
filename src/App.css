@@ -1,0 +1,16 @@
+/* App.css */
+.App {
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
+  align-items: center; /* Center children horizontally */
+  height: 100%;
+  width: 100%;
+}
+
+
+.Form {
+  
+  width: 100%; /* Ensure Form takes 100% width */
+  max-width: 100%;
+   /* Set a maximum width for better readability */
+}

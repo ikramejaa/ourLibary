@@ -1,0 +1,15 @@
+
+  input {
+    padding: 8px;
+    margin-right: 8px;
+  }
+  
+  .button-search {
+    padding: 8px 16px;
+    background-color: #0055ff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    }
+
+  

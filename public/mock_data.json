@@ -1,0 +1,31 @@
+
+[
+    {
+      "_id": "1",
+      "_source": {
+        "title": "Anne of Green Gables",
+        "author": "Lucy Maud Montgomery",
+        "genre": ["Family", "Romance"],
+        "link": "mock-link-1.pdf"
+      }
+    },
+    {
+      "_id": "2",
+      "_source": {
+        "title": "The Gifts of Imperfection",
+        "author": "Brené Brown",
+        "genre": ["Personal Development"],
+        "link": "mock-link-2.pdf"
+      }
+    },
+    {
+      "_id": "3",
+      "_source": {
+        "title": "Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "genre": ["Mystery", "Crime"],
+        "link": "mock-link-3.pdf"
+      }
+    }
+  ]
+  
